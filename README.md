@@ -12,6 +12,8 @@ focused on credit/fixed income analysis and risk modeling.
 - **[Multi-Asset Risk Dashboard](link)** — VaR/CVaR, GARCH volatility, Black-Scholes Greeks, Kupiec backtesting
 - **[HMM Macro Regime Detection](link)** — Hidden Markov Models on FRED macro data with walk-forward validation
 - **[Systematic CTA Strategy](link)** — Rules-based trend-following strategy with backtested performance
+- **[Pension Fund LDI Engine](link)** — Liability-driven investment framework: PBO modeling on the AA corporate curve, duration/convexity matching, swap overlay sizing, and funded-status stress testing
+
 
 ## Skills
 Python (pandas, numpy, scipy, statsmodels) · Bloomberg Terminal · Financial Modeling · Fixed Income Analysis
