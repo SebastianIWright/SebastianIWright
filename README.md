@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sebastian
 
-<!--
-**SebastianIWright/SebastianIWright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance student at the University of Florida (Warrington College of Business), 
+focused on credit/fixed income analysis and risk modeling.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🏦 Fund & Data Analyst Intern @ Edgewater Family Wealth
+- 📊 Industrials Coverage Analyst, Florida Fixed Income Group
+- 🐍 Building out a quant finance portfolio in Python (see pinned repos below)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[Multi-Asset Risk Dashboard](link)** — VaR/CVaR, GARCH volatility, Black-Scholes Greeks, Kupiec backtesting
+- **[HMM Macro Regime Detection](link)** — Hidden Markov Models on FRED macro data with walk-forward validation
+- **[Systematic CTA Strategy](link)** — Rules-based trend-following strategy with backtested performance
+
+## Skills
+Python (pandas, numpy, scipy, statsmodels) · Bloomberg Terminal · Financial Modeling · Fixed Income Analysis
+
+## Connect
+[LinkedIn](www.linkedin.com/in/sebastian--wright) · [Email](Sebastianwright@ufl.edu)
