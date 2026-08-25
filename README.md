@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian
 
 Finance student at the University of Florida (Warrington College of Business), 
-focused on credit/fixed income analysis and risk modeling.
+focused on credit/fixed income analysis and Asset Management.
 
 ## What I'm working on
 - 🏦 Fund & Data Analyst Intern @ Edgewater Family Wealth
