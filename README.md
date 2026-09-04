@@ -5,7 +5,7 @@ focused on credit/fixed income analysis and Asset Management.
 
 ## What I'm working on
 - 🏦 Fund & Data Analyst Intern @ Edgewater Family Wealth
-- 📊 Industrials Coverage Analyst, Florida Fixed Income Group
+- 📊 Industrials Coverage Associate, Florida Fixed Income Group
 - 🐍 Building out a quant finance portfolio in Python (see pinned repos below)
 
 ## Featured Projects
